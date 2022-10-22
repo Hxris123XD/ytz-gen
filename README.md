@@ -4,4 +4,6 @@ saw people selling this shit so why not leak it
 Where can I use it?
 `This project can be used in replit & command prompt`
 
-how to setup on replit?
+My repl: ```https://replit.com/@Hxrisfr69/ytz-gen```
+
+Just install python ( newest version ) and install the modules, probaly only colorama so you would to `pip install colorama`
